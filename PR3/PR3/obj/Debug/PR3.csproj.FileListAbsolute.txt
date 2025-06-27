@@ -1,0 +1,11 @@
+D:\Users\1213-4\Documents\2-ИСПд\Дисциплина\Шемонаев\РКИС\PR3\PR3\bin\Debug\PR3.exe.config
+D:\Users\1213-4\Documents\2-ИСПд\Дисциплина\Шемонаев\РКИС\PR3\PR3\bin\Debug\PR3.exe
+D:\Users\1213-4\Documents\2-ИСПд\Дисциплина\Шемонаев\РКИС\PR3\PR3\bin\Debug\PR3.pdb
+D:\Users\1213-4\Documents\2-ИСПд\Дисциплина\Шемонаев\РКИС\PR3\PR3\obj\Debug\PR3.csproj.AssemblyReference.cache
+D:\Users\1213-4\Documents\2-ИСПд\Дисциплина\Шемонаев\РКИС\PR3\PR3\obj\Debug\PR3.Form1.resources
+D:\Users\1213-4\Documents\2-ИСПд\Дисциплина\Шемонаев\РКИС\PR3\PR3\obj\Debug\PR3.Properties.Resources.resources
+D:\Users\1213-4\Documents\2-ИСПд\Дисциплина\Шемонаев\РКИС\PR3\PR3\obj\Debug\PR3.csproj.GenerateResource.cache
+D:\Users\1213-4\Documents\2-ИСПд\Дисциплина\Шемонаев\РКИС\PR3\PR3\obj\Debug\PR3.csproj.CoreCompileInputs.cache
+D:\Users\1213-4\Documents\2-ИСПд\Дисциплина\Шемонаев\РКИС\PR3\PR3\obj\Debug\PR3.exe
+D:\Users\1213-4\Documents\2-ИСПд\Дисциплина\Шемонаев\РКИС\PR3\PR3\obj\Debug\PR3.pdb
+D:\Users\1213-4\Documents\2-ИСПд\Дисциплина\Шемонаев\РКИС\PR3\PR3\obj\Debug\PR3.HelpForm.resources

@@ -1,0 +1,10 @@
+D:\Users\1213-4\Documents\2-ИСПд\Дисциплина\Шемонаев\РКИС\PR2\PR2\bin\Debug\PR2.exe.config
+D:\Users\1213-4\Documents\2-ИСПд\Дисциплина\Шемонаев\РКИС\PR2\PR2\bin\Debug\PR2.exe
+D:\Users\1213-4\Documents\2-ИСПд\Дисциплина\Шемонаев\РКИС\PR2\PR2\bin\Debug\PR2.pdb
+D:\Users\1213-4\Documents\2-ИСПд\Дисциплина\Шемонаев\РКИС\PR2\PR2\obj\Debug\PR2.csproj.AssemblyReference.cache
+D:\Users\1213-4\Documents\2-ИСПд\Дисциплина\Шемонаев\РКИС\PR2\PR2\obj\Debug\PR2.Form1.resources
+D:\Users\1213-4\Documents\2-ИСПд\Дисциплина\Шемонаев\РКИС\PR2\PR2\obj\Debug\PR2.Properties.Resources.resources
+D:\Users\1213-4\Documents\2-ИСПд\Дисциплина\Шемонаев\РКИС\PR2\PR2\obj\Debug\PR2.csproj.GenerateResource.cache
+D:\Users\1213-4\Documents\2-ИСПд\Дисциплина\Шемонаев\РКИС\PR2\PR2\obj\Debug\PR2.csproj.CoreCompileInputs.cache
+D:\Users\1213-4\Documents\2-ИСПд\Дисциплина\Шемонаев\РКИС\PR2\PR2\obj\Debug\PR2.exe
+D:\Users\1213-4\Documents\2-ИСПд\Дисциплина\Шемонаев\РКИС\PR2\PR2\obj\Debug\PR2.pdb
